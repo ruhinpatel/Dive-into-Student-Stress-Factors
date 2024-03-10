@@ -30,7 +30,7 @@ git clone https://github.com/ruhinpatel/Dive-into-Student-Stress-Factors.git
 - Documentation: Document the analysis process, findings, and conclusions in detail.
 
 ## Dataset
-The dataset used in this project can be found [here]([URL](https://www.kaggle.com/datasets/rxnach/student-stress-factors-a-comprehensive-analysis)). It includes information on various factors such as academic workload, extracurricular activities, social interactions, etc., that may contribute to student stress.
+The dataset used in this project can be found [here](https://www.kaggle.com/datasets/rxnach/student-stress-factors-a-comprehensive-analysis). It includes information on various factors such as academic workload, extracurricular activities, social interactions, etc., that may contribute to student stress.
 
 ## Contributing
 Contributions are welcome! If you have ideas for improving the analysis or want to add new features, feel free to open an issue or submit a pull request.
